@@ -1,19 +1,9 @@
 {
-	"items": [
-		{
-			"id": 1,
-			"checked": false,
-			"item": "Pizza"
-		},
-		{
-			"id": 2,
-			"checked": false,
-			"item": "Pastel"
-		},
-		{
-			"id": 3,
-			"checked": false,
-			"item": "Refri"
-		}
-	]
+  "items": [
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Pastel"
+    }
+  ]
 }
